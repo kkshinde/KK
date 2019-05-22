@@ -1,4 +1,6 @@
 
+echo "In F1 branch"
+
 def add(x,y):
 
     pass
@@ -6,6 +8,10 @@ def add(x,y):
 def subtract(x,y):
 
     pass
+
+def multiply(x,y):
+
+    return x*y
 
 def multiply(x,y):
 
